@@ -1,4 +1,8 @@
 ### Cleaning Tips
 
 
-* Never go against the grain when cleaning brushed stainless steel.
+- Never go against the grain when cleaning brushed stainless steel.
+- blah
+- foo
+- woot
+- 
